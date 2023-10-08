@@ -1,9 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T07:16:14.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" version="21.8.2" etag="SsYfRG_Dr2uUVVvGGWji" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T07:23:19.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="kH_-7Q_Vo9exQZ0bdz3O" version="21.8.2" type="github">
   <diagram name="Page-1" id="ri_zIndYCX3aOjwbRQ_V">
-    <mxGraphModel>
+    <mxGraphModel dx="796" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="S6MC3fcJwKjXExnYhszD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="S6MC3fcJwKjXExnYhszD-1" target="S6MC3fcJwKjXExnYhszD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6MC3fcJwKjXExnYhszD-6" value="HasPhysical" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S6MC3fcJwKjXExnYhszD-4">
+          <mxGeometry x="0.3217" y="4" relative="1" as="geometry">
+            <mxPoint x="-12" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6MC3fcJwKjXExnYhszD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="S6MC3fcJwKjXExnYhszD-1" target="S6MC3fcJwKjXExnYhszD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6MC3fcJwKjXExnYhszD-1" value="Movie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S6MC3fcJwKjXExnYhszD-3" value="Rental Copy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S6MC3fcJwKjXExnYhszD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="S6MC3fcJwKjXExnYhszD-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6MC3fcJwKjXExnYhszD-7" value="Retreive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S6MC3fcJwKjXExnYhszD-8" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
